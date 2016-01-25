@@ -1,3 +1,0 @@
--r com.txt
-fake-factory
-ForgeryPy
